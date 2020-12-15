@@ -93,6 +93,8 @@ main{
     background-color: rgb(55, 56, 56);
     margin: 0;
     padding: 15px;
+    text-transform: uppercase;
+    letter-spacing: 2px:
 }
 
 .content-header{
